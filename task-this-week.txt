@@ -1,0 +1,9 @@
+1. USER CRUD Operation
+2. Role CRUD Operation
+3. Permission CRUD Operation
+4. When User Login , then it show User Info , Role Info , Permission Info
+5. NO FrontEnd to be create.
+6. All API test using POSTMAN
+7. Password Hashing
+8. JWT Token Send on Client Side (After Login)
+9. Logs Maintain (Winston)
